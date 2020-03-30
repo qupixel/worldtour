@@ -1,0 +1,27 @@
+{
+    "replace": {
+        "Bengal": "Bangalore",
+        "Bombay": "Mumbai",
+        "Calcutta": "Kolkata",
+        "Madras" : "Chennai",
+        "Macao" : "Macau"
+    },
+    "ignore": [ 
+        "Holland",
+        "New Holland",
+        "California",
+        "Nevada",
+        "Queenstown",
+        "Bordeaux"
+    ],
+    "resolve": [
+        ["Paris", "country", "France"],
+        ["Dover", "country", "United Kingdom"],
+        ["Dublin", "country", "Ireland"],
+        ["Liverpool", "country", "United Kingdom"],
+        ["London", "country", "United Kingdom"],
+        ["San Francisco", "country", "United States"]
+    ],
+    "add": [
+    ]
+}
