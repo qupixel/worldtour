@@ -1,6 +1,5 @@
 {
     "replace": {
-        "Bengal": "Bangalore",
         "Bombay": "Mumbai",
         "Calcutta": "Kolkata",
         "Madras" : "Chennai",
@@ -12,7 +11,10 @@
         "California",
         "Nevada",
         "Queenstown",
-        "Bordeaux"
+        "Bordeaux",
+        "Madras",
+        "Bengal",
+        "Macao"
     ],
     "resolve": [
         ["Paris", "country", "France"],
